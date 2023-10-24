@@ -1,0 +1,2 @@
+importScripts
+import"hallo world
